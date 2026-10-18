@@ -1,0 +1,13 @@
+DUKHAN LOUNGE · website preview
+
+How to open
+1. Unzip the folder (if it came as a .zip).
+2. Double-click "index.html". It opens in your browser (Chrome, Safari, Edge or Firefox).
+3. Keep everything in this folder together, the page needs the css, js and assets folders next to it.
+
+Good to know
+- Best viewed on a laptop or desktop. It also works on phones.
+- Move your mouse over the first screen to see the smoke.
+- The Google Map and the live football fixtures need an internet connection.
+  Offline, the page still works and shows a sample match schedule.
+- Prices, flavours and menu items are placeholders for now, send changes and they can be updated.
